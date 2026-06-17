@@ -92,4 +92,8 @@ Detection works on any distro with `/etc/os-release`. The ASCII art falls back t
 
 ## License
 
-MIT
+idk duh
+
+## Screenshot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3c8fb9fe-0784-47d3-9cd5-cd273ea4e867" />
+
