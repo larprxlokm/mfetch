@@ -3,19 +3,20 @@
 A minimal, fast system info tool written in Python. No dependencies beyond the standard library.
 
 ```
-user@hostname
+wraith@acer
 ─────────────
 OS:       Arch Linux
 Kernel:   6.9.3-arch1-1
 Arch:     x86_64
 Uptime:   2d 4h 17m
-DE/WM:    Hyprland
+DE/WM:    KDE Plasma
 Shell:    zsh
-Terminal: kitty
-CPU:      Intel Core i7-13700K @ 3.40GHz
-GPU:      NVIDIA GeForce RTX 4070
-Memory:   6821 MiB / 32000 MiB (21%)
-Packages: 1342 (pacman), 4 (flatpak)
+Terminal: alacritty
+CPU:      Intel Core i5-9300H @ 3.40GHz
+GPU:      NVIDIA GeForce GTX 1050
+Memory:   6821 MiB / 24000 MiB (21%)
+Packages: 1345 (pacman), 4 (flatpak)
+
 ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓   ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓
 ```
 
